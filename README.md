@@ -1,2 +1,2 @@
-# rust4ai
-Rust for AI
+# Rust for AI
+This repository includes examples of Rust code for AI. 
